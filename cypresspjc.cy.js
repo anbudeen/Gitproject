@@ -1,3 +1,5 @@
+/// <reference types='cypress' />
+
 import "cypress-file-upload"
 
 describe("ECOMMERCE -test suite",()=>{
